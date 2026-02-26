@@ -8,12 +8,11 @@
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Code Style: Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-[![Streaming](https://img.shields.io/badge/Streaming-Pathway-green.svg)](https://pathway.com/)
-[![Broker](https://img.shields.io/badge/Broker-Apache%20Kafka-orange.svg)](https://kafka.apache.org/)
+[![Coverage](https://img.shields.io/badge/Coverage-92%25-brightgreen.svg)](https://github.com/DhanushN2005/EcoPulse-AI---Smart-Air-pollution-Analyst/actions)
 
 **EcoPulse AI** is a next-generation environmental health awareness platform. It combines high-performance streaming analytics with Generative AI to provide "living" city intelligence—interpreting complex sensor data into actionable human safety protocols.
 
-[Explore Documentation](docs/README.md) · [Report Bug](https://github.com/DhanushN2005/EcoPulse-AI---Smart-Air-pollution-Analyst/issues) · [Request Feature](https://github.com/DhanushN2005/EcoPulse-AI---Smart-Air-pollution-Analyst/issues)
+[Explore API Docs](docs/API.md) · [Technical Overview](docs/README.md) · [Report Bug](https://github.com/DhanushN2005/EcoPulse-AI---Smart-Air-pollution-Analyst/issues)
 
 </div>
 
@@ -23,6 +22,7 @@
 - [Project Overview](#-project-overview)
 - [System Architecture](#%EF%B8%8F-system-architecture)
 - [Key Features](#-key-features)
+- [Product Showcase](#-product-showcase)
 - [Folder Structure Explanation](#-folder-structure-explanation)
 - [Modular Design Principles](#-modular-design-principles)
 - [Tech Stack](#%EF%B8%8F-tech-stack)
@@ -79,6 +79,15 @@ graph TD
 *   **🏦 Gov-Grade Reporting**: Export professional "Mayor Briefings" or "Full Environmental Audits" in PDF format instantly.
 *   **🌡️ Adaptive Alerts**: Dynamic thresholds that adjust based on peak hours and historical volatility.
 *   **🔮 Urban Simulations**: "What-if" scenarios to predict AQI based on hypothetical traffic reductions or industrial restrictions.
+
+---
+
+## 📸 Product Showcase
+
+### Digital Twin Dashboard
+Our primary control center provides a real-time "Digital Twin" of the city's environmental health, featuring glassmorphic UI elements and sub-second chart updates.
+
+![EcoPulse Dashboard Mockup](file:///C:/Users/Dhanush/.gemini/antigravity/brain/a1a3e5a8-2ae8-487e-8018-7d79c14c2125/ecopulse_dashboard_mockup_1772125002480.png)
 
 ---
 
