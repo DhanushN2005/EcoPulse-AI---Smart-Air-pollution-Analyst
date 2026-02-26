@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![EcoPulse AI CI](https://github.com/DhanushN2005/EcoPluse-AI/actions/workflows/ci.yml/badge.svg)](https://github.com/DhanushN2005/EcoPluse-AI/actions/workflows/ci.yml)
+[![EcoPulse AI CI](https://github.com/DhanushN2005/EcoPulse-AI---Smart-Air-pollution-Analyst/actions/workflows/ci.yml/badge.svg)](https://github.com/DhanushN2005/EcoPulse-AI---Smart-Air-pollution-Analyst/actions/workflows/ci.yml)
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Code Style: Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
@@ -13,7 +13,7 @@
 
 **EcoPulse AI** is a next-generation environmental health awareness platform. It combines high-performance streaming analytics with Generative AI to provide "living" city intelligence—interpreting complex sensor data into actionable human safety protocols.
 
-[Explore Documentation](docs/README.md) · [Report Bug](https://github.com/DhanushN2005/EcoPluse-AI/issues) · [Request Feature](https://github.com/DhanushN2005/EcoPluse-AI/issues)
+[Explore Documentation](docs/README.md) · [Report Bug](https://github.com/DhanushN2005/EcoPulse-AI---Smart-Air-pollution-Analyst/issues) · [Request Feature](https://github.com/DhanushN2005/EcoPulse-AI---Smart-Air-pollution-Analyst/issues)
 
 </div>
 
@@ -131,8 +131,8 @@ EcoPulse AI adheres to strict **Senior Engineering** standards:
 ### 2. Installation
 ```bash
 # Clone the repository
-git clone https://github.com/DhanushN2005/EcoPluse-AI.git
-cd EcoPluse-AI
+git clone https://github.com/DhanushN2005/EcoPulse-AI---Smart-Air-pollution-Analyst.git
+cd EcoPulse-AI---Smart-Air-pollution-Analyst
 
 # Create and activate virtual environment
 python -m venv venv
